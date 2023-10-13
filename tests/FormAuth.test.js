@@ -60,3 +60,4 @@ for (const account of accounts) {
     await expect(page.locator('id=flash')).toContainText(account.errorMessage);
   });
 }
+
