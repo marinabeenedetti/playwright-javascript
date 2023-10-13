@@ -1,4 +1,24 @@
-# Demonstração: Playwright com JavaScript
+## 👏 Automação Playwright com JavaScript
+Projeto inicial feito pelo Henrique Breda, utilizando ele para aprimorar meus conhecimentos em playwright.
+
+## 💡 Technologies used
+
+- [x] Javascript
+- [x] Playwright
+
+## 🚀  Documentação do site
+
+url: https://the-internet.herokuapp.com
+
+
+## 🌎 License
+
+This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+
+
+
+
+# Sobre o Playwright
 
 
 ## Navegadores suportados
